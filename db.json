@@ -6,19 +6,6 @@
 			"stars": "3",
 			"url": "https://images.unsplash.com/photo-1582865808609-5e6e80e53573?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzcxfHx3b21lbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
 		},
-		{
-			"name": "Allen solly",
-			"price": "2680",
-			"discount": "20",
-			"stars": "5",
-			"url": "https://images.unsplash.com/photo-1604158760272-380e91095f7a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzA3fHx3b21lbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-		},
-		{
-			"name": "Botany",
-			"price": "2999",
-			"discount": "50",
-			"stars": "5",
-			"url": "https://images.unsplash.com/photo-1584998299263-ec3c4e0fb6de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTF8fHdvbWVuJTIwZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-		}
+		
 	]
 }
